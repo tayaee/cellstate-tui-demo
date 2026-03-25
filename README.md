@@ -3,10 +3,12 @@
 A demo app for cellstate TUI library.
 
 ## Install uv and node
+```
 % mise --version
 % mise intall
 % which uv
 % which node
+```
 
 ## Start Backend Server
 ```
