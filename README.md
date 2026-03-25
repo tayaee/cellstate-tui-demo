@@ -5,7 +5,7 @@ A demo app for cellstate TUI library.
 ## Install uv and node
 ```
 % mise --version
-% mise intall
+% mise install
 % which uv
 % which node
 ```
